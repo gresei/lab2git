@@ -1,0 +1,4 @@
+name: greta 
+major: computer engineering
+year: senior
+hobby: sailling 
